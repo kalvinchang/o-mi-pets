@@ -1,0 +1,7 @@
+#Sun Oct 30 01:13:24 PDT 2016
+base.0=C\:\\Users\\chees_000\\Desktop\\AlphaCode\\TopAG\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_681c51b437123de06b6a630ddfc50b0fb419baf0
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\chees_000\\Desktop\\AlphaCode\\TopAG\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_191f0563f6109054f5580483997547e097937e66\\classes.dex
+base.1=C\:\\Users\\chees_000\\Desktop\\AlphaCode\\TopAG\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_191f0563f6109054f5580483997547e097937e66
+file.0=C\:\\Users\\chees_000\\Desktop\\AlphaCode\\TopAG\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_681c51b437123de06b6a630ddfc50b0fb419baf0\\classes.dex

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_settings_screen"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.goodluckexe.topag.SettingsScreen">
+    <LinearLayout
+        android:id="@+id/statusbar"
+        android:layout_height="25dp"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:background="#ff9800">
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:paddingTop="4dp"
+            android:paddingLeft="4dp"
+            android:gravity="center">
+            <TextView
+                android:id="@+id/level"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:textSize="15dp"
+                android:gravity="center"/>
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:gravity="center">
+            <ImageView
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:src="@drawable/pcoin" />
+            <TextView
+                android:id="@+id/pcoins"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:textSize="15dp" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:gravity="center">
+            <ImageView
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:src="@drawable/dog_bone_button" />
+            <TextView
+                android:id="@+id/treats"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:textSize="15dp" />
+        </LinearLayout>
+
+
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:orientation="horizontal"
+        android:layout_below="@+id/statusbar"
+        android:background="#FFC107">
+
+        <ImageButton
+            android:src="@drawable/store_button"
+            android:id="@+id/store_button"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent"
+            android:scaleType="centerCrop"
+            android:padding="19dp"
+            android:background="#FFC107"/>
+        <ImageButton
+            android:src="@drawable/pet_selection_button"
+            android:id="@+id/pet_selection_button"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent"
+            android:scaleType="centerCrop"
+            android:padding="21dp"
+            android:background="#FFC107"/>
+        <ImageButton
+            android:src="@drawable/home_button"
+            android:id="@+id/home_button"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent"
+            android:scaleType="centerCrop"
+            android:padding="20dp"
+            android:background="#FFC107"/>
+        <ImageButton
+            android:src="@drawable/player_stats_button"
+            android:id="@+id/player_stats_button"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent"
+            android:scaleType="centerCrop"
+            android:padding="8dp"
+            android:background="#FFC107"/>
+        <ImageButton
+            android:src="@drawable/settings_button"
+            android:id="@+id/settings_button"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent"
+            android:padding="20dp"
+            android:scaleType="centerCrop"
+            android:background="#FFC107"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_below="@+id/toolbar"
+        android:id="@+id/theLinearSettingsLayout">
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="15dp" />
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="40dp">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Notifications"
+                android:textSize="25dp"
+                android:paddingLeft="10dp"/>
+            <Switch
+                android:id="@+id/notificationswitch"
+                android:layout_width="100dp"
+                android:layout_height="match_parent"
+                android:layout_alignParentRight="true"
+                android:paddingRight="10dp"/>
+        </RelativeLayout>
+
+        <Space
+            android:id="@+id/emptySpace"
+            android:layout_width="match_parent"
+            android:layout_height="400dp" />
+
+        <Button
+            android:id="@+id/reset"
+            android:layout_width="match_parent"
+            android:layout_height="75dp"
+            android:text="Reset Progress"
+            android:gravity="center"
+            android:textSize="25dp"
+            android:paddingLeft="40dp"
+            android:paddingRight="40dp"/>
+    </LinearLayout>
+
+</RelativeLayout>
+

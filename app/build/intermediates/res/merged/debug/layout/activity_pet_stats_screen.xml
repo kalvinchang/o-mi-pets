@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_pet_stats_screen"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.alphacode.ogpet.PetStatsScreen">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:orientation="horizontal"
+        android:background="#FFC107">
+        <ImageButton
+            android:id="@+id/back_button"
+            android:layout_height = "match_parent"
+            android:layout_width = "40dp"
+            android:src="@drawable/back_button"
+            android:scaleType="centerCrop"
+            android:background="#FFC107"/>
+        <TextView
+            android:id="@+id/pet_name"
+            android:layout_height="match_parent"
+            android:layout_width="match_parent"
+            android:text="Pet Name"
+            android:textSize="20dp"
+            android:gravity="center"/>
+    </LinearLayout>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:src="@drawable/pet_image"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <TextView
+            android:id="@+id/birthday"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="40dp"
+            android:text="Birthday: January 4, 2016"
+            android:textSize="17dp"/>
+        <TextView
+            android:id="@+id/age"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="40dp"
+            android:text="Age: 9 Months, 5 days"
+            android:textSize="17dp"/>
+    </LinearLayout>
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="15dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <TextView
+            android:id="@+id/favorite_food"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="40dp"
+            android:text="Favorite Food: Fried Rice"
+            android:textSize="17dp"/>
+        <TextView
+            android:id="@+id/favorite_exercise"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="40dp"
+            android:text="Favorite Exercise: Running"
+            android:textSize="17dp"/>
+    </LinearLayout>
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="15dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_weight="1"
+            android:layout_height="0dp"
+            android:text="Happiness"
+            android:textSize="17dp"/>
+        <ProgressBar
+            android:id="@+id/happiness"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            style="@android:style/Widget.ProgressBar.Horizontal"
+            android:padding="7.5dp"
+            android:max="100"
+            android:progress="90"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:orientation="vertical">
+        <TextView
+            android:id="@+id/hunger"
+            android:layout_width="match_parent"
+            android:layout_weight="1"
+            android:layout_height="0dp"
+            android:text="Hunger"
+            android:textSize="17dp"/>
+        <ProgressBar
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            style="@android:style/Widget.ProgressBar.Horizontal"
+            android:padding="7.5dp"
+            android:max="100"
+            android:progress="95"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:orientation="horizontal">
+        <Button
+            android:id="@+id/select_button"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent"
+            android:text="Select"
+            android:paddingLeft="50dp"
+            android:paddingRight="50dp"
+            android:paddingBottom="5dp"
+            android:paddingTop="5dp"
+            android:gravity="center"/>
+        <Button
+            android:id="@+id/feed_button"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent"
+            android:text="Feed"
+            android:paddingLeft="50dp"
+            android:paddingRight="50dp"
+            android:paddingBottom="5dp"
+            android:paddingTop="5dp"
+            android:gravity="center"/>
+    </LinearLayout>
+</LinearLayout>

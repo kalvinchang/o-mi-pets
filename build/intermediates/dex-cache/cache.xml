@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\chees_000\Desktop\AlphaCode\TopAG\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\chees_000\Desktop\AlphaCode\TopAG\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_70b92633b968864bb6aff3524ad0a2052dba8b9b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chees_000\Desktop\AlphaCode\TopAG\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\chees_000\Desktop\AlphaCode\TopAG\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_11233e9eb0dce024db97b9b5a3ab0d9912e03bfd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chees_000\Desktop\AlphaCode\TopAG\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\chees_000\Desktop\AlphaCode\TopAG\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_6ae707a5149f69c24a670986ee13bdeaeca08dee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chees_000\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\chees_000\Desktop\AlphaCode\TopAG\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_12121684b3f6f44722efade4211a9df4e1b321d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chees_000\Desktop\AlphaCode\TopAG\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\chees_000\Desktop\AlphaCode\TopAG\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_aafe95c014c5212b87e556ea4fed6e391ee72ee2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chees_000\Desktop\AlphaCode\TopAG\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="77884d3acfdc41f828048750b71f43b6002ddfb0">
+        <dex dex="C:\Users\chees_000\Desktop\AlphaCode\TopAG\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_191f0563f6109054f5580483997547e097937e66\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chees_000\Desktop\AlphaCode\TopAG\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\chees_000\Desktop\AlphaCode\TopAG\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_189364415bc66a6cd2a778ed05339c0d8cfaa710\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chees_000\Desktop\AlphaCode\TopAG\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\chees_000\Desktop\AlphaCode\TopAG\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_39ac40bfbf9005a565c3bf36ae6244e82cb1e5ab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chees_000\Desktop\AlphaCode\TopAG\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\chees_000\Desktop\AlphaCode\TopAG\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_51ae57157cfb2f75562e8f11a20a1c2f00b3a297\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chees_000\Desktop\AlphaCode\TopAG\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\chees_000\Desktop\AlphaCode\TopAG\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_993264a2dbd5f904a341001fc9b60b3049b3cd29\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chees_000\Desktop\AlphaCode\TopAG\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\chees_000\Desktop\AlphaCode\TopAG\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_8040852e8d9b91757560d113a07d5fd1712ce52a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chees_000\Desktop\AlphaCode\TopAG\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\chees_000\Desktop\AlphaCode\TopAG\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_c1a482b7a6e12de521a9eb871bd0c43d8bf0748a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chees_000\Desktop\AlphaCode\TopAG\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\chees_000\Desktop\AlphaCode\TopAG\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_6b9eaa68fce9ca0ef22e0dfa435bb0abbdb4d151\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chees_000\Desktop\AlphaCode\TopAG\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\chees_000\Desktop\AlphaCode\TopAG\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_8b4ab49bcbd12bd0009e8e9fcacdf76327cffdb2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chees_000\Desktop\AlphaCode\TopAG\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\chees_000\Desktop\AlphaCode\TopAG\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_cc2b23c43f404a99a9facb19c6606c9c8e139418\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chees_000\Desktop\AlphaCode\TopAG\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="11c724a7fd9dc01d8ad2d5e3259c37e78a5ba61f">
+        <dex dex="C:\Users\chees_000\Desktop\AlphaCode\TopAG\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_681c51b437123de06b6a630ddfc50b0fb419baf0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chees_000\Desktop\AlphaCode\TopAG\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\chees_000\Desktop\AlphaCode\TopAG\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_326b4fd1b5e4367bc06522a11215e1ae2acae583\classes.dex" />
+    </item>
+
+</items>
